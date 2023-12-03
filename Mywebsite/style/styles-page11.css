@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.page5-img{
+    width: 370px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+.img-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.h1 {
+    text-align: right;
+}
+
+.title{
+    position: absolute;
+    right: 7%;
+    top: 20%;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paragraph{
+    position: absolute;
+    right: 1%;
+    top: 100%;
+    width: 200%;
+}
